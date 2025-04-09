@@ -7,5 +7,5 @@
 
 ## Cloning
 ```
-git clone  ~/.config/nvm
+git clone https://github.com/gfalexander/nvim-cfg.git ~/.config/nvm
 ```
